@@ -2,7 +2,7 @@ import tkinter as ttk
 import webbrowser
 from tkinter import *
 import speech_recognition as sr
-from pygame import mixer
+#from pygame import mixer
 
 root = ttk.Tk()
 
