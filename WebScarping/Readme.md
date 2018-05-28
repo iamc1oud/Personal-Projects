@@ -20,4 +20,4 @@ Available commands:
 
   [ more ]      More commands available when run from project directory
 
-Use "scrapy <command> -h" to see more info about a command
+Use "scrapy <command> -h" to see more info about a command.
